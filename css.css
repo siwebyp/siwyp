@@ -3,7 +3,7 @@ body{font-size:12px; font-family:"Microsoft Sans Serif";}
 ul{list-style-type:none;}
 a{text-decoration:none;}
 
-body{background:url(./background.png) left top repeat;}
+body{background:url(./image/background.png) left top repeat;}
 @font-face {
     font-weight: normal;
     font-style: normal;
